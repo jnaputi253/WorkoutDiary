@@ -1,0 +1,16 @@
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.Database.dll.config
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.Database.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.Database.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\EntityFramework.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\EntityFramework.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\x64\Debug\WorkoutDiary.Database.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\x64\Debug\WorkoutDiary.Database.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\x64\Debug\WorkoutDiary.Database.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.Models.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.Models.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.EncryptionServices.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\x64\Debug\WorkoutDiary.EncryptionServices.pdb

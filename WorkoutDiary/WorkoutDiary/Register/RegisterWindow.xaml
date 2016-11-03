@@ -1,0 +1,21 @@
+﻿<Window x:Class="WorkoutDiary.Register.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkoutDiary.Register"
+        mc:Ignorable="d"
+        Background="LightBlue"
+        Title="Registration" Height="300" Width="500">
+    <Grid>
+        <Label x:Name="lblUsername" Content="Username" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="15,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbxUsername" HorizontalAlignment="Left" Height="23" Margin="20,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" LostFocus="tbxUsername_LostFocus"/>
+        <Label x:Name="lblPassword" Content="Password" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="15,59,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="tbxPassword" HorizontalAlignment="Left" Height="23" Margin="20,85,0,0" VerticalAlignment="Top" Width="200" LostFocus="tbxPassword_LostFocus"/>
+        <Label x:Name="lblPasswordRepeat" Content="Re-enter Password" HorizontalAlignment="Left" Margin="15,109,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="tbxPasswordRepeat" HorizontalAlignment="Left" Height="23" Margin="20,135,0,0" VerticalAlignment="Top" Width="200" LostFocus="tbxPasswordRepeat_LostFocus"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="260,222,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="btnCancel_Click"/>
+        <Button x:Name="btnRegister" Content="Register" HorizontalAlignment="Left" Margin="382,222,0,0" VerticalAlignment="Top" Width="100" Height="30" Click="btnRegister_Click"/>
+        <Label x:Name="lblUserNameMessage" Content="Hello" FontSize="12" HorizontalAlignment="Left" Margin="225,36,0,0" VerticalAlignment="Top" Width="257" Height="20"/>
+    </Grid>
+</Window>

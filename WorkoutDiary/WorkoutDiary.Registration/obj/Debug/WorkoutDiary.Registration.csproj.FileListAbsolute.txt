@@ -1,0 +1,5 @@
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\Debug\WorkoutDiary.Registration.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\Debug\WorkoutDiary.Registration.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\Debug\WorkoutDiary.Registration.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\Debug\WorkoutDiary.Registration.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\Debug\WorkoutDiary.Registration.csprojResolveAssemblyReference.cache

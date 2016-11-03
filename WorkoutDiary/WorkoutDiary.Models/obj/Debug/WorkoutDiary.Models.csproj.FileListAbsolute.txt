@@ -1,0 +1,7 @@
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\bin\Debug\WorkoutDiary.Models.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\bin\Debug\WorkoutDiary.Models.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\obj\Debug\WorkoutDiary.Models.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\obj\Debug\WorkoutDiary.Models.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\obj\Debug\WorkoutDiary.Models.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\bin\Debug\WorkoutDiary.EncryptionServices.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Models\bin\Debug\WorkoutDiary.EncryptionServices.pdb

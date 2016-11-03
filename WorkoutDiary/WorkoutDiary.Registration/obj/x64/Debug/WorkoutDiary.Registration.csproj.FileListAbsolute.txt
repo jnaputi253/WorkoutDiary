@@ -1,0 +1,13 @@
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Registration.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Registration.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\x64\Debug\WorkoutDiary.Registration.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\x64\Debug\WorkoutDiary.Registration.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\obj\x64\Debug\WorkoutDiary.Registration.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Database.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Database.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Models.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.Models.pdb
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.EncryptionServices.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Registration\bin\x64\Debug\WorkoutDiary.EncryptionServices.pdb

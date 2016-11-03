@@ -1,0 +1,14 @@
+c:\users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\WorkoutDiary.Database.dll
+c:\users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\WorkoutDiary.Database.pdb
+c:\users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\Debug\WorkoutDiary.Database.dll
+c:\users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\Debug\WorkoutDiary.Database.pdb
+c:\Users\juan\Documents\Visual Studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\obj\Debug\WorkoutDiary.Database.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\WorkoutDiary.Database.dll.config
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\EntityFramework.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\EntityFramework.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juan\documents\visual studio 2015\Projects\WorkoutDiary\WorkoutDiary.Database\bin\Debug\System.Data.SQLite.xml
